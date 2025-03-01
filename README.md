@@ -1,6 +1,6 @@
-# My React Simple Project
+# My React Simple Projects
 
-This repository contains the source code for my simple React project, built using Vite. 
+This repository contains the source code for my simple React projects, built using Vite. 
 
 ## Projects
 
