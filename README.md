@@ -10,7 +10,7 @@ Below are the React projects included in the `src/components` directory:
 - Random color generator
 - Image slider
 - Load more data
--Persist Dark or Light mode 
+- Persist Dark or Light mode 
 
 ### Features:
 - Fast and minimal setup with React and Vite
