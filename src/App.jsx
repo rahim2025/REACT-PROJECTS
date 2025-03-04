@@ -1,6 +1,7 @@
 import RandomColor from "./components/random-color-generator/RandomColor"
 import ImageSlider from "./components/image-slider/ImageSlider"
-import './App.css'
+import LoadMoreData from "./components/load-more-data/index"
+
 
 function App() {
 
@@ -11,7 +12,12 @@ function App() {
           {/* <RandomColor/> */}
 
       {/* Image slider */}
-          <ImageSlider url= {"https://picsum.photos/v2/list"} />
+          {/* <ImageSlider url= {"https://picsum.photos/v2/list"} /> */}
+
+      {/* {Load more data} */}
+        < LoadMoreData/>
+
+      
     </>
   )
 }
