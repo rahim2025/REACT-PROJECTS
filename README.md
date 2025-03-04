@@ -9,6 +9,7 @@ Below are the React projects included in the `src/components` directory:
 - Accordian
 - Random color generator
 - Image slider
+- Load more data
 
 ### Features:
 - Fast and minimal setup with React and Vite
