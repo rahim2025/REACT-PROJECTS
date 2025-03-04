@@ -1,0 +1,12 @@
+.qr-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.qr-code{
+    display: flex;
+    justify-content: center;
+}
