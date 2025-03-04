@@ -2,6 +2,7 @@ import RandomColor from "./components/random-color-generator/RandomColor"
 import ImageSlider from "./components/image-slider/ImageSlider"
 import LoadMoreData from "./components/load-more-data/index"
 import QrCodeGenerator from "./components/qr-code-generator"
+import ToggleMode from "./components/Dark or light mode/darkMode"
 
 
 function App() {
@@ -18,8 +19,9 @@ function App() {
       {/* {Load more data} */}
         {/* < LoadMoreData/> */}
       {/* QR-CODE_GENERTOR */}
-          <QrCodeGenerator />
-      
+          {/* <QrCodeGenerator /> */}
+      {/* Toggle Mode */}
+          <ToggleMode />
     </>
   )
 }
